@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @aarish023
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Node js
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me +91 9479956558 and +91 8319263080 as well as AARISHLNCTS@GMAIL.COM(To avoid the confusion of l and i ,I have given my email in uppercase  )
-- I have created a tic tac toe using AI
-- I have a 1 year of experience as a python developer
-- I am looking to start my career as data analyst
-- I have completed my graduation in 2019
+- 
+- Hi, I am a Python Developer and a Data Science Enthu, I possess hands-on expertise in Python, SQL, PowerBI, and MS-Excel, with over 1 year of experience. Proficient in predictive modeling and descriptive analysis, I am actively learning and adapting to the utilization of cloud computing technologies to stay abreast of the rapid changes in the industry.
+- 
 
 <!---
 aarish023/aarish023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
